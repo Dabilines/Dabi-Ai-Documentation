@@ -220,6 +220,5 @@ Jika kamu ingin menangani media, kamu bisa cek ./system/msg.js:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Request & Fix 
-   laporkan Bug ke [sini](https://wa.me/6285194993977?text=halo+kak+aku+ingin+melaporkan+bug)
-   [email](maoudabioffc@gmail.com)
+   laporkan Bug ke [sini](https://wa.me/6285194993977?text=halo+kak+aku+ingin+melaporkan+bug)<br>[email](maoudabioffc@gmail.com)
    
