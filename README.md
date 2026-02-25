@@ -1,7 +1,7 @@
 # <div align='center'>Dokumentasi Sistem Events Dabi-Ai</div>
 
 ## 🅒 Code Source
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Dabilines&repo=Dabi-Ai&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dabilines/Dabi-Ai)
+[![Dabi-Ai](https://github.com/Dabilines/Dabi-Ai)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
