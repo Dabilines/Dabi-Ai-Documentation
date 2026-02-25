@@ -1,7 +1,7 @@
 # <div align='center'>Dokumentasi Sistem Events Dabi-Ai</div>
 
 ## 🅒 Code Source
-[![Dabi-Ai](https://github.com/Dabilines/Dabi-Ai)
+[Dabi-Ai](https://github.com/Dabilines/Dabi-Ai)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
