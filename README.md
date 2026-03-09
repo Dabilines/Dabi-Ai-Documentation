@@ -37,7 +37,7 @@ export default function info(ev) { // "info" nama file
     cmd: ['cmd', 'bisa 2 cmd'], // wajib array
     ocrs: ['mini cmd'], // opsional kalo gak mau ada mini cmd hapus aja
     tags: 'Info Menu', // tentukan tags kelompok cmd (wajib)
-    desc: 'Deskripsi cmd' // opsional
+    desc: 'Deskripsi cmd', // opsional
     owner: !1, // !1 adalah false, !0 adalah true
     prefix: !0,
     money: 100, // jika di isi 0 maka akan mengikuti nilai % pajak
