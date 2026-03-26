@@ -15,7 +15,6 @@ tebakkata = {
   8:  { soal: "bunga mawar yang _ _ _ _ _", jawaban: "indah" },
   9:  { soal: "hujan _ _ _ _ _ sekali", jawaban: "deras" },
   10: { soal: "api _ _ _ _ _ _ waktu kemah", jawaban: "unggun" },
-
   11: { soal: "_ _ _ _ meja kayu", jawaban: "kaki" },
   12: { soal: "puncak _ _ _ _ _ _ _ yang tinggi", jawaban: "gunung" },
   13: { soal: "_ _ _ _ apel yang manis", jawaban: "buah" },
