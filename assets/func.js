@@ -59,8 +59,8 @@ tebakkata = {
   48: { soal: "susu _ _ _ _ telah habis", jawaban: "sapi" },
   49: { soal: "ikan _ _ _ _ itu sepertinya enak", jawaban: "laut" },
   50: { soal: "sayur pak mulyono di _ _ _ _ _ ulat", jawaban: "makan" }
+  51: { soal: "_ _ _ _ _ ini sudah tua", jawaban: "mobil" }
 }
-
 export default {
   sifatList,
   cekDosa,
