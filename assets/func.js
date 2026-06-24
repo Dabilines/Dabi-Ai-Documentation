@@ -60,7 +60,8 @@ tebakkata = {
   49: { soal: "ikan _ _ _ _ itu sepertinya enak", jawaban: "laut" },
   50: { soal: "sayur pak mulyono di _ _ _ _ _ ulat", jawaban: "makan" }, 
   51: { soal: "_ _ _ _ _ ini sudah tua", jawaban: "rumah" }, 
-}
+  52: { soal: "aku _ _ _ _ _ _ kecewa", jawaban: "sangat" }, 
+}  
 export default {
   sifatList,
   cekDosa,
