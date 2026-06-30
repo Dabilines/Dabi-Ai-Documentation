@@ -65,6 +65,7 @@ tebakkata = {
   53: { soal: "film yang sangat _ _ _ _ _ _ _ _ _ _ _", jawaban: "membosankan" }, 
   54: { soal: "rumah _ _ _ _ _ yang menakutkan", jawaban: "hantu" }, 
   55: { soal: "sepatu yang sudah _ _ _ _ _", jawaban: "usang" }, 
+  56: { soal: "_ _ _ _  yang lucu", jawaban: "pita" }, 
 }  
 export default {
   sifatList,
