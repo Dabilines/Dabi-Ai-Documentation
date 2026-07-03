@@ -69,7 +69,7 @@ tebakkata = {
   57: { soal: "jangan _ _ _ _ _", jawaban: "nakal" }, 
   58: { soal: "_ _ _ _ _ yang berbahaya", jawaban: "racun" }, 
   59: { soal: "jangan _ _ _ _ _ _ itu", jawaban: "sentuh" }, 
-  60: { soal: "wajah yang _ _ _ _ _ _ _", jawaban; "menawan" }, 
+  60: { soal: "wajah yang _ _ _ _ _ _ _", jawaban: "menawan" }, 
 }  
 export default {
   sifatList,
