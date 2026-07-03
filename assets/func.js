@@ -14,14 +14,14 @@ tebakkata = {
   7:  { soal: "tangan kiri yang _ _ _ _", jawaban: "kuat" },
   8:  { soal: "bunga mawar yang _ _ _ _ _", jawaban: "indah" },
   9:  { soal: "hujan _ _ _ _ _ sekali", jawaban: "deras" },
-  10: { soal: "api _ _ _ _ _ _ waktu kemah", jawaban: "unggun" },
+  10: { soal: "api _ _ _ _ _ _ saat kemah", jawaban: "unggun" },
 
   11: { soal: "_ _ _ _ meja kayu", jawaban: "kaki" },
   12: { soal: "puncak _ _ _ _ _ _ _ yang tinggi", jawaban: "gunung" },
   13: { soal: "_ _ _ _ apel yang manis", jawaban: "buah" },
   14: { soal: "ikan _ _ _ _ asin", jawaban: "laut" },
-  15: { soal: "burung _ _ _ _ milik pak mulyono", jawaban: "wowo" },
-  16: { soal: "daun _ _ _ _ _ yang jatuh", jawaban: "pohon" },
+  15: { soal: "burung _ _ _ _ _ milik pak mulyono", jawaban: "merak" },
+  16: { soal: "daun _ _ _ _ _ yang jatuh", jawaban: "kecil" },
   17: { soal: "batu _ _ _ _ yang panas", jawaban: "bara" },
   18: { soal: "air _ _ _ _ _ _ yang tinggi", jawaban: "terjun" },
   19: { soal: "malam yang _ _ _ _ _ _", jawaban: "terang" },
@@ -66,6 +66,10 @@ tebakkata = {
   54: { soal: "rumah _ _ _ _ _ yang menakutkan", jawaban: "hantu" }, 
   55: { soal: "sepatu yang sudah _ _ _ _ _", jawaban: "usang" }, 
   56: { soal: "_ _ _ _  yang lucu", jawaban: "pita" }, 
+  57: { soal: "jangan _ _ _ _ _", jawaban: "nakal" }, 
+  58: { soal: "_ _ _ _ _ yang berbahaya", jawaban: "racun" }, 
+  59: { soal: "jangan _ _ _ _ _ _ itu", jawaban: "sentuh" }, 
+  60: { soal: "wajah yang _ _ _ _ _ _ _", jawaban; "menawan" }, 
 }  
 export default {
   sifatList,
