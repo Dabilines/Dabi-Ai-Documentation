@@ -67,7 +67,7 @@ const sifatList = [ 'Baik', 'Jahat', 'Lucu', 'Pemarah', 'Penyabar', 'Pemalu', 'P
         60: { soal: "wajah yang _ _ _ _ _ _ _", jawaban: "menawan" },
       },
 
-      randTxt = ['haha luxu', 'y', 'asik sendiri', 'follow dong https://whatsapp.com/channel/0029Van8WHGEAKW8OUDniG1m', 'lu asik bang', 'disirkelin jir', 'when yah masuk sirkel']
+      randTxt = ['haha luxu', 'y', 'asik sendiri', 'follow dong https://whatsapp.com/channel/0029Van8WHGEAKW8OUDniG1m', 'lu asik bang', 'disirkelin jir', 'when yah masuk sirkel', 'haha kena sirkel', 'yah dicuekin']
 
 
 export default {
