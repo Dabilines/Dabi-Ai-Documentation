@@ -1,0 +1,56 @@
+{
+  "api": {
+    "fb": {
+      "api_0": {
+        "web": "https://api.azbry.com/api/download/facebook?url=",
+        "subject": [
+          "result.medias[1].url",
+          "result.medias[0].url"
+        ]
+      },
+      "api_1": {
+        "web": "https://api-faa.my.id/faa/fbdownload?url=",
+        "subject": [
+          "result.media.video_hd",
+          "result.media.video_sd"
+        ]
+      },
+      "api_2": {
+        "web": "https://sylvatica.my.id/api/download/facebook?url=&apikey=dabikey",
+        "subject": [
+          "data.hd",
+          "data.sd"
+        ]
+      }
+    },
+    "hd": {
+      "api_0": {
+        "web": "https://anabot.my.id/api/ai/remini?imageUrl=&apikey=freeApikey"
+        "subject": [
+          "data.result"
+        ]
+      }
+    },
+    "yt": {
+      "api_0": {
+        "web": "https://api.kaicloud.my.id/downloader/youtube?url=",
+        "subject": [
+          "result.video_hd"
+        ]
+      },
+      "api_1": {
+        "web": "https://api-faa.my.id/faa/ytmp4?url=",
+        "subject": [
+          "result.download_url"
+        ]
+      },
+      "api_2": {
+        "web": "https://sylvatica.my.id/api/download/ytmp4?url=&apikey=dabikey",
+        "uri": "url=",
+        "subject": [
+          "result.download_url"
+        ]
+      }
+    }
+  }
+}
