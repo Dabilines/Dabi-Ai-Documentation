@@ -25,7 +25,7 @@
     },
     "hd": {
       "api_0": {
-        "web": "https://anabot.my.id/api/ai/remini?imageUrl=&apikey=freeApikey"
+        "web": "https://anabot.my.id/api/ai/remini?imageUrl=&apikey=freeApikey",
         "subject": [
           "data.result"
         ]
