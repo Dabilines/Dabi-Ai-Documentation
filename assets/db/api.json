@@ -25,10 +25,7 @@
     },
     "hd": {
       "api_0": {
-        "web": "https://anabot.my.id/api/ai/remini?imageUrl=&apikey=freeApikey",
-        "subject": [
-          "data.result"
-        ]
+        "web": "https://stylera.my.id/api/tools/hd?image=&scale=2"
       }
     },
     "yt": {
