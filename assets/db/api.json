@@ -34,6 +34,11 @@
     "play": {
       "api_0": {
         "web": "https://api-faa.my.id/faa/ytplay?query="
+      },
+      "api_1": {
+        "web": "https://stylera.my.id/api/search/yts?q=hachimi%20mambo%20funk",
+        "subject": [
+          ]
       }
     },
     "yt": {
@@ -50,8 +55,7 @@
         ]
       },
       "api_2": {
-        "web": "https://sylvatica.my.id/api/download/ytmp4?url=&apikey=dabikey",
-        "uri": "url=",
+        "web": "https://stylera.my.id/api/downloader/ytmp4?url=",
         "subject": [
           "result.download_url"
         ]
