@@ -26,6 +26,9 @@
     "hd": {
       "api_0": {
         "web": "https://stylera.my.id/api/tools/hd?image="
+      },
+      "api_1": {
+        "web": "https://anabot.my.id/api/ai/remini?imageUrl=&apikey=freeApikey"
       }
     },
     "yt": {
