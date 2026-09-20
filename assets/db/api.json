@@ -41,7 +41,7 @@
           ]
       }
     },
-    "yt": {
+    "yt3": {
       "api_0": {
         "web": "https://api.kaicloud.my.id/downloader/youtube?url=",
         "subject": [
@@ -55,10 +55,15 @@
         ]
       },
       "api_2": {
-        "web": "https://stylera.my.id/api/downloader/ytmp4?url=",
+        "web": "https://stylera.my.id/api/downloader/ytmp3?url=",
         "subject": [
           "result.download_url"
         ]
+      }
+    },
+    "yt4": {
+      "api_0": {
+        "web": "https://stylera.my.id/api/downloader/ytmp4?url="
       }
     }
   }
