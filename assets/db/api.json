@@ -16,10 +16,9 @@
         ]
       },
       "api_2": {
-        "web": "https://sylvatica.my.id/api/download/facebook?url=&apikey=dabikey",
+        "web": "https://stylera.my.id/api/downloader/facebook?url=",
         "subject": [
-          "data.hd",
-          "data.sd"
+          "result.[0].url"
         ]
       }
     },
