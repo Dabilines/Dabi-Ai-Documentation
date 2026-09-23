@@ -22,7 +22,7 @@
         ]
       },
       "api_3": {
-        "web": "https://api.siputzx.my.id/api/d/facebook?url="
+        "web": "https://api.siputzx.my.id/api/d/facebook?url=",
         "subject": [
           "data.download[0].url"
         ]
