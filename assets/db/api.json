@@ -79,7 +79,7 @@
     },
     "pindl": {
       "api_0": {
-        "web": "https://api.azbry.com/api/download/pinterest?url="
+        "web": "https://api.azbry.com/api/download/pinterest?url=",
         "subject": [
           "result.download"
         ]
