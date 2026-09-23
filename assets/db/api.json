@@ -26,6 +26,33 @@
         "subject": [
           "data.downloads[0].url"
         ]
+      },
+      "api_4": {
+        "web": "https://api.nexray.eu.cc/downloader/facebook?url=",
+        "subject": [
+          "result.video_hd",
+          "result.video_sd"
+        ]
+      }
+    },
+    "ig": {
+      "api_0": {
+        "web": "https://api.nexray.eu.cc/downloader/instagram?url=",
+        "subject": [
+          "result[0].url"
+        ]
+      },
+      "api_1": {
+        "web": "https://api.azbry.com/api/download/instagram?url=",
+        "subject": [
+          "videos[0]"
+        ]
+      },
+      "api_2": {
+        "web": "https://stylera.my.id/api/downloader/instagram?url=",
+        "subject": [
+          "result[0]"
+        ]
       }
     },
     "hd": {
@@ -41,7 +68,7 @@
         "web": "https://api-faa.my.id/faa/ytplay?query="
       },
       "api_1": {
-        "web": "https://stylera.my.id/api/search/yts?q=hachimi%20mambo%20funk",
+        "web": "https://stylera.my.id/api/search/yts?q=",
         "subject": [
           ]
       }
@@ -64,11 +91,26 @@
         "subject": [
           "result.download_url"
         ]
+      },
+      "api_3": {
+        "web": "https://api.azbry.com/api/download/ytmp3?url=",
+        "subject": [
+          "result.download"
+        ]
       }
     },
     "yt4": {
       "api_0": {
-        "web": "https://stylera.my.id/api/downloader/ytmp4?url="
+        "web": "https://api.azbry.com/api/download/ytmp4?url=",
+        "subject": [
+          "result.download"
+        ]
+      },
+      "api_1": {
+        "web":"https://api.nexray.eu.cc/downloader/v1/ytmp4?url=&resolusi=1080",
+        "subject": [
+          "result.url"
+        ]
       }
     }
   }
