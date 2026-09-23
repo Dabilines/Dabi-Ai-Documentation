@@ -11,20 +11,20 @@
       "api_1": {
         "web": "https://api-faa.my.id/faa/fbdownload?url=",
         "subject": [
-          "result.media.video_hd",
-          "result.media.video_sd"
+          "result.media"
         ]
       },
       "api_2": {
         "web": "https://stylera.my.id/api/downloader/facebook?url=",
         "subject": [
-          "result.[0].url"
+          "result[0].url",
+          "result[1].url"
         ]
       },
       "api_3": {
         "web": "https://api.siputzx.my.id/api/d/facebook?url=",
         "subject": [
-          "data.download[0].url"
+          "data.downloads[0].url"
         ]
       }
     },
