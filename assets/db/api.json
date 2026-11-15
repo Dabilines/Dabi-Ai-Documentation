@@ -33,6 +33,13 @@
           "result.video_hd",
           "result.video_sd"
         ]
+      },
+      "api_5": {
+        "web": "https://sylvatica.my.id/api/download/facebook?url=&apikey=dabikey",
+        "subject": [
+          "result.links[0].url",
+          "result.links[1].url"
+        ]
       }
     },
     "ig": {
@@ -53,6 +60,12 @@
         "subject": [
           "result[0]"
         ]
+      },
+      "api_3": {
+        "web": "https://sylvatica.my.id/api/download/instagram?url=&apikey=dabikey",
+        "subject": [
+          "result.media[0]"
+        ]
       }
     },
     "hd": {
@@ -65,6 +78,10 @@
         "subject": [
           "data.result"
         ]
+      },
+      "api_2": {
+        "web": "https://sylvatica.my.id/api/tools/hd?url=&apikey=dabikey",
+        "mt": "arrayBuffer"
       }
     },
     "play": {
@@ -113,15 +130,27 @@
     },
     "yt4": {
       "api_0": {
-        "web": "https://api.azbry.com/api/download/ytmp4?url=",
+        "web": "https://api.nexray.eu.cc/downloader/v1/ytmp4?url=&resolusi=1080",
         "subject": [
-          "result.download"
+          "result.url"
         ]
       },
       "api_1": {
-        "web":"https://api.nexray.eu.cc/downloader/v1/ytmp4?url=&resolusi=1080",
+        "web": "https://api-faa.my.id/faa/ytmp4?url=",
         "subject": [
-          "result.url"
+          "result.download_url"
+        ]
+      },
+      "api_2": {
+        "web": "https://sylvatica.my.id/api/download/ytmp4?url=&quality=720&apikey=dabikey",
+        "subject": [
+          "result.download_url"
+        ]
+      },
+      "api_3": {
+        "web": "https://api.azbry.com/api/download/ytmp4?url=",
+        "subject": [
+          "result.download"
         ]
       }
     }
