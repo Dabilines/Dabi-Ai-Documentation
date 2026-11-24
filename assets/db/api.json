@@ -35,7 +35,7 @@
         ]
       },
       "api_5": {
-        "web": "https://sylvatica.my.id/api/download/facebook?url=&apikey=dabikey",
+        "web": "https://sylvatica.cloud/api/download/facebook?url=&apikey=dabikey",
         "subject": [
           "result.links[0].url",
           "result.links[1].url"
@@ -80,7 +80,7 @@
         ]
       },
       "api_2": {
-        "web": "https://sylvatica.my.id/api/tools/hd?url=&apikey=dabikey",
+        "web": "https://sylvatica.cloud/api/tools/hd?url=&apikey=dabikey",
         "mt": "arrayBuffer"
       }
     },
@@ -142,7 +142,7 @@
         ]
       },
       "api_2": {
-        "web": "https://sylvatica.my.id/api/download/ytmp4?url=&quality=720&apikey=dabikey",
+        "web": "https://sylvatica.cloud/api/download/ytmp4?url=&quality=720&apikey=dabikey",
         "subject": [
           "result.download_url"
         ]
