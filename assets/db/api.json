@@ -126,6 +126,12 @@
         "subject": [
           "result.download"
         ]
+      },
+      "api_4": {
+        "web": "https://api.nexray.eu.cc/downloader/ytmp3?url=",
+        "subject": [
+          "result.url"
+        ]
       }
     },
     "yt4": {
