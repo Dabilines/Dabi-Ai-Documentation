@@ -116,21 +116,15 @@
         ]
       },
       "api_2": {
-        "web": "https://stylera.my.id/api/downloader/ytmp3?url=",
+        "web": "https://api.nexray.eu.cc/downloader/ytmp3?url=",
         "subject": [
-          "result.download_url"
+          "result.url"
         ]
       },
       "api_3": {
         "web": "https://api.azbry.com/api/download/ytmp3?url=",
         "subject": [
           "result.download"
-        ]
-      },
-      "api_4": {
-        "web": "https://api.nexray.eu.cc/downloader/ytmp3?url=",
-        "subject": [
-          "result.url"
         ]
       }
     },
